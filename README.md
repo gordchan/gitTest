@@ -6,4 +6,5 @@ Test git functionality
 2. Clone from remote to local repository (check, not clone but pull)
 3. Puch from local to remote (check)
 4. Use credentialling helper for HTTPS connection to github (check)
-5. Commit from RStudio (fail from GUI - check from shell with ssh)
+5. Commit from RStudio (check)
+6. Puch from RStudio (Push/Pull buttons greyed from GUI, check from shell)
