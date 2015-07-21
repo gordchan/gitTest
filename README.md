@@ -8,3 +8,4 @@ Test git functionality
 4. Use credentialling helper for HTTPS connection to github (check)
 5. Commit from RStudio (check)
 6. Puch from RStudio (Push/Pull buttons greyed from GUI, check from shell)
+7. Save credential from RStudio
